@@ -1,5 +1,9 @@
 PD: Sorry my English, im spanish, you can pull best translations
 
+## Gif Example
+https://i.gyazo.com/7dfd903477eb8bee19264d5d9d60d0b5.mp4
+*The flickering of the video is because my recording program does not record well in REDM*
+
 ## How to install
 
 * Copy and paste ```ar_menu``` folder to ```resources```
