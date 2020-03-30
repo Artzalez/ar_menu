@@ -48,3 +48,13 @@ RegisterNUICallback('example1', function(data)
 		end
 end)
 ```
+```style.css```
+```css
+.crosshair,
+.menu-car,
+.menu-example, /*U Need add new Sub-menus here for not duplicate whe u show main menu*/
+.menu-user,
+.menu-animations {
+    opacity: 0;
+}
+```
