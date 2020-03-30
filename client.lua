@@ -173,9 +173,6 @@ local Efecto = "SwitchHUDIn" -- Para una nueva version
 Citizen.CreateThread(function()
 	while true do
     local Ped = PlayerPedId()
-
-    -- Get informations about what user is targeting
-    -- /!\ If not working, check that you have added "target" folder to resources and server.cfg
     local Entity, farCoordsX, farCoordsY, farCoordsZ = MTarget(6.0, Ped)
     local EntityType = GetEntityType(Entity)
 
